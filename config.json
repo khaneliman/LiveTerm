@@ -1,20 +1,22 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Khaneliman",
+  "name": "Austin Horstman",
+  "ascii": "khaneliman",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "khaneliman",
+    "linkedin": "austin-horstman",
+    "twitter": "khaneliman12",
+    "facebook": "khaneliman"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "khaneliman12@gmail.com",
+  "ps1_hostname": "austin-mac",
+  "ps1_username": "khaneliman",
+  "repo": "https://github.com/khaneliman",
+  "resume_url": "https://austinhorstman.khaneliman.com/resume",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/austinhorstman",
+    "patreon": "https://patreon.com/khaneliman"
   },
   "colors": {
     "light": {
